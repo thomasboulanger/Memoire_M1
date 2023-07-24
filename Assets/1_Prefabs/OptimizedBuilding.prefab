@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 2676797316800386032}
   - component: {fileID: 1335949987415333973}
   - component: {fileID: 3850234799658952863}
+  - component: {fileID: -6527555560766538195}
   m_Layer: 0
   m_Name: OptimizedBuilding
   m_TagString: Untagged
@@ -83,3 +84,17 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+--- !u!64 &-6527555560766538195
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3345669119992875338}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 7323125023852879827, guid: c08baa3310a97854fb69489008e13231, type: 3}
